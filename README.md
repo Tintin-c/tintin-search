@@ -1,4 +1,4 @@
-# [Tintin Search](http://www.tintin.center)
+# [Tintin Search](http://tintin.center/)
 
 Tintin Search是一个基于Elasticsearch的搜索引擎。
 
