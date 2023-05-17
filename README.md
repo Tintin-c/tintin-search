@@ -28,11 +28,14 @@ git clone https://github.com/Tintin-c/tintin-search.git
 
 ## 聚合了文章、图片、用户搜索
 
-![image-20230517160428911](/Users/tintin/Library/Application%20Support/typora-user-images/image-20230517160428911.png)
+<img width="1507" alt="image" src="https://github.com/Tintin-c/tintin-search/assets/71000759/f0e8033d-cd54-4ae3-b2cf-343bb8dc7a09">
+
+
 
 ## 使用Elasticsearch & ik分词器 支持中文搜索、chatgpt完成Elasticsearch部分代码
 
-![image-20230517160910102](/Users/tintin/Library/Application%20Support/typora-user-images/image-20230517160910102.png)
+<img width="1051" alt="image" src="https://github.com/Tintin-c/tintin-search/assets/71000759/c9505b1f-fb22-4717-869a-484a1bd020e0">
+
 
 
 
