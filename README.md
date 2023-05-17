@@ -42,6 +42,5 @@ git clone https://github.com/Tintin-c/tintin-search.git
 
 ## 未来计划
 
-- 增加更多数据源(MySQL,MongoDB等)
+- 增加更多数据源
 - 提供管理后台
-- 优化搜索精度
